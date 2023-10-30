@@ -1,0 +1,113 @@
+.iphone-14-2-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 0 var(--br-3xs) var(--br-3xs);
+  background-color: var(--main);
+  width: 24.38rem;
+  height: 4.31rem;
+}
+.icon-person {
+  position: absolute;
+  height: 3.55%;
+  width: 7.69%;
+  top: 2.25%;
+  right: 84.62%;
+  bottom: 94.19%;
+  left: 7.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div,
+.div1 {
+  font-weight: 600;
+}
+.div {
+  position: absolute;
+  top: 25.69rem;
+  left: 4.94rem;
+  font-size: var(--font-size-5xl);
+  color: #1d1d1d;
+  display: flex;
+  align-items: center;
+  width: 14.5rem;
+}
+.div1 {
+  top: 17.44rem;
+  left: 3.56rem;
+}
+.div1,
+.div2,
+.div3 {
+  position: absolute;
+}
+.div2 {
+  top: 20.81rem;
+  left: 4.69rem;
+  font-weight: 600;
+}
+.div3 {
+  top: 28.5rem;
+  left: 2.5rem;
+  font-size: var(--font-size-base);
+  font-family: var(--font-helvetica);
+  color: var(--color-darkslategray);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 19.44rem;
+}
+.iphone-14-2-inner,
+.iphone-14-2-item {
+  position: absolute;
+  top: 35.75rem;
+  left: 2.56rem;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(90deg, #1386aa, #1b9cc5 50.39%, #137fa1);
+  box-shadow: 7px 8px 4px rgba(0, 0, 0, 0.25);
+  width: 9rem;
+  height: 3.06rem;
+}
+.iphone-14-2-inner {
+  left: 12.88rem;
+}
+.div4,
+.div5 {
+  position: absolute;
+  top: 36.63rem;
+  left: 5.88rem;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-helvetica);
+  color: var(--text-1);
+  display: flex;
+  align-items: center;
+  width: 2.38rem;
+}
+.div5 {
+  left: 16.19rem;
+}
+.icon-menu {
+  position: absolute;
+  height: 3.55%;
+  width: 7.69%;
+  top: 2.25%;
+  right: 7.69%;
+  bottom: 94.19%;
+  left: 84.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iphone-14-2 {
+  position: relative;
+  background-color: var(--main-2);
+  width: 100%;
+  height: 52.75rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--text-2);
+  font-family: var(--font-montserrat);
+}

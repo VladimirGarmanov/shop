@@ -1,0 +1,97 @@
+.iphone-14-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 24.38rem;
+  height: 52.75rem;
+}
+.icon-person1 {
+  position: absolute;
+  height: 2.96%;
+  width: 6.41%;
+  top: 2.73%;
+  right: 88.46%;
+  bottom: 94.31%;
+  left: 5.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div18,
+.div19 {
+  position: absolute;
+  top: 16.5rem;
+  left: 2.88rem;
+  font-weight: 600;
+  font-family: var(--font-montserrat);
+  display: flex;
+  align-items: center;
+  width: 18.38rem;
+}
+.div19 {
+  top: 20.38rem;
+  width: 17.13rem;
+}
+.div20,
+.div21 {
+  position: absolute;
+  top: 24.75rem;
+  left: 2.75rem;
+  font-size: var(--font-size-base);
+}
+.div21 {
+  top: 26.63rem;
+  display: flex;
+  align-items: center;
+  width: 19.44rem;
+}
+.iphone-14-1-inner,
+.iphone-14-1-item {
+  position: absolute;
+  top: 35.56rem;
+  left: 3.5rem;
+  border-radius: var(--br-3xs);
+  background-color: var(--main);
+  width: 8rem;
+  height: 3.06rem;
+}
+.iphone-14-1-inner {
+  left: 12.88rem;
+}
+.div22,
+.div23 {
+  position: absolute;
+  top: 36.44rem;
+  left: 6.31rem;
+  font-size: var(--font-size-mini);
+  display: flex;
+  align-items: center;
+  width: 2.38rem;
+}
+.div23 {
+  left: 15.69rem;
+}
+.icon-menu1 {
+  position: absolute;
+  height: 2.96%;
+  width: 6.41%;
+  top: 2.73%;
+  right: 5.13%;
+  bottom: 94.31%;
+  left: 88.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iphone-14-1 {
+  position: relative;
+  background-color: var(--text-1);
+  width: 100%;
+  height: 52.75rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--text-1);
+  font-family: var(--font-helvetica);
+}

@@ -1,0 +1,392 @@
+.desktop-1-child,
+.desktop-1-item {
+  position: absolute;
+  background-color: var(--main);
+}
+.desktop-1-child {
+  top: 0;
+  left: 0;
+  border-radius: 0 0 var(--br-3xs) var(--br-3xs);
+  width: 87.5rem;
+  height: 7.38rem;
+}
+.desktop-1-item {
+  top: 53.19rem;
+  left: 18.88rem;
+  border-radius: var(--br-3xs);
+  width: 49.69rem;
+  height: 6.06rem;
+}
+.button,
+.button1,
+.button2,
+.desktop-1-child1,
+.desktop-1-inner {
+  position: absolute;
+  top: 17.13rem;
+  left: 25.44rem;
+  border-radius: var(--br-3xs);
+  background-color: var(--additional-color);
+  width: 11.25rem;
+  height: 4rem;
+}
+.button1,
+.button2,
+.desktop-1-child1,
+.desktop-1-inner {
+  top: 17.19rem;
+  left: 38rem;
+  background-color: var(--main);
+  width: 11.5rem;
+}
+.button2,
+.desktop-1-child1,
+.desktop-1-inner {
+  top: 17.13rem;
+  left: 50.81rem;
+  width: 11.38rem;
+}
+.desktop-1-child1,
+.desktop-1-inner {
+  top: 17.19rem;
+  left: 6.31rem;
+  width: 17.75rem;
+  height: 15.81rem;
+}
+.desktop-1-child1 {
+  left: 63.44rem;
+}
+.desktop-1-child2,
+.vector-icon {
+  position: absolute;
+  top: 20rem;
+  left: 11.81rem;
+  width: 7.38rem;
+  height: 0.13rem;
+}
+.desktop-1-child2 {
+  top: 57.19rem;
+  left: 44.56rem;
+  width: 13.56rem;
+}
+.desktop-1-child3,
+.desktop-1-child4,
+.desktop-1-child5 {
+  position: absolute;
+  top: 34.94rem;
+  left: 34.75rem;
+  width: 8.25rem;
+  height: 0.13rem;
+}
+.desktop-1-child4,
+.desktop-1-child5 {
+  top: 35.19rem;
+  left: 53.94rem;
+}
+.desktop-1-child5 {
+  top: 38.25rem;
+  left: 34.06rem;
+  width: 8.94rem;
+}
+.desktop-1-child6,
+.desktop-1-child7,
+.desktop-1-child8 {
+  position: absolute;
+  top: 38.63rem;
+  left: 54.63rem;
+  width: 7.56rem;
+  height: 0.13rem;
+}
+.desktop-1-child7,
+.desktop-1-child8 {
+  top: 42.38rem;
+}
+.desktop-1-child8 {
+  top: 46.13rem;
+}
+.desktop-1-child10,
+.desktop-1-child11,
+.desktop-1-child9 {
+  position: absolute;
+  top: 23.63rem;
+  left: 12.94rem;
+  width: 7.38rem;
+  height: 0.13rem;
+}
+.desktop-1-child10,
+.desktop-1-child11 {
+  top: 27.25rem;
+  left: 14.56rem;
+}
+.desktop-1-child11 {
+  top: 30.88rem;
+  left: 13.81rem;
+}
+.div24,
+.div25 {
+  font-size: var(--font-size-9xl);
+}
+.div24 {
+  position: absolute;
+  top: 2.44rem;
+  left: calc(50% - 437px);
+  font-weight: 300;
+  color: var(--text-1);
+  display: inline-block;
+  width: 54.56rem;
+}
+.div25 {
+  top: 30.56rem;
+  left: 26.31rem;
+  font-weight: 500;
+  font-family: var(--font-inter);
+}
+.div25,
+.div26,
+.div27 {
+  position: absolute;
+}
+.div26 {
+  top: 30.56rem;
+  left: 48.63rem;
+  font-size: var(--font-size-9xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+}
+.div27 {
+  top: 10.13rem;
+  left: 9.19rem;
+}
+.div28,
+.div29,
+.div30 {
+  position: absolute;
+  top: 33.5rem;
+  left: 25.31rem;
+  font-weight: 300;
+}
+.div29,
+.div30 {
+  top: 33.75rem;
+  left: 47.06rem;
+}
+.div30 {
+  top: 36.56rem;
+  left: 28.81rem;
+}
+.div31,
+.div32,
+.div33,
+.div34,
+.div35,
+.div36 {
+  position: absolute;
+  top: 37.19rem;
+  left: 47.94rem;
+  font-weight: 300;
+}
+.div32,
+.div33,
+.div34,
+.div35,
+.div36 {
+  top: 40.94rem;
+}
+.div33,
+.div34,
+.div35,
+.div36 {
+  top: 44.69rem;
+}
+.div34,
+.div35,
+.div36 {
+  top: 33.25rem;
+  left: 36.88rem;
+}
+.div35,
+.div36 {
+  top: 33.5rem;
+  left: 55.94rem;
+}
+.div36 {
+  top: 55.19rem;
+  left: 48.13rem;
+  font-size: var(--font-size-9xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--text-1);
+  display: inline-block;
+  width: 10.63rem;
+}
+.div37,
+.div38 {
+  position: absolute;
+  top: 36.56rem;
+  left: 36.38rem;
+  font-weight: 300;
+}
+.div38 {
+  top: 36.94rem;
+  left: 56.63rem;
+}
+.div39,
+.div40 {
+  left: 56.13rem;
+  font-weight: 300;
+}
+.div39 {
+  position: absolute;
+  top: 40.69rem;
+}
+.div40 {
+  top: 44.44rem;
+}
+.div40,
+.div41,
+.div42 {
+  position: absolute;
+}
+.div41 {
+  top: 12.31rem;
+  left: 6.25rem;
+  font-size: 1.13rem;
+  font-weight: 300;
+}
+.div42 {
+  top: 18.94rem;
+  left: calc(50% + 375px);
+  color: var(--text-1);
+}
+.div42,
+.div43,
+.div44,
+.div45 {
+  font-size: var(--font-size-5xl);
+}
+.div43 {
+  position: absolute;
+  top: 21.31rem;
+  left: calc(50% + 419px);
+  color: var(--text-1);
+}
+.div44,
+.div45 {
+  left: calc(50% + 412px);
+}
+.div44 {
+  position: absolute;
+  top: 23.69rem;
+  color: var(--text-1);
+}
+.div45 {
+  top: 26.06rem;
+}
+.div45,
+.div46,
+.div47 {
+  position: absolute;
+  color: var(--text-1);
+}
+.div46 {
+  top: 28.44rem;
+  left: calc(50% + 412px);
+  font-size: var(--font-size-5xl);
+}
+.div47 {
+  top: 18.88rem;
+  left: 8.5rem;
+  font-family: var(--font-inter);
+}
+.span {
+  font-weight: 500;
+}
+.button3,
+.button4,
+.div48 {
+  font-family: var(--font-inter);
+}
+.div48 {
+  position: absolute;
+  top: 55.13rem;
+  left: 28.75rem;
+  font-size: var(--font-size-11xl);
+  color: var(--text-1);
+  display: inline-block;
+  width: 15.25rem;
+}
+.button3,
+.button4 {
+  font-weight: 600;
+}
+.button3 {
+  position: absolute;
+  top: 18.38rem;
+  left: 27.69rem;
+  color: var(--text-1);
+  display: inline-block;
+  width: 6.69rem;
+}
+.button4 {
+  top: 18.44rem;
+  left: 40.63rem;
+}
+.button4,
+.button5,
+.div49 {
+  position: absolute;
+  color: var(--text-1);
+}
+.div49 {
+  top: 2.25rem;
+  left: 75.81rem;
+  font-size: var(--font-size-11xl);
+}
+.button5 {
+  top: 18.38rem;
+  left: 53.13rem;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 6.75rem;
+}
+.div50,
+.div51 {
+  left: 8.5rem;
+  color: var(--text-1);
+}
+.div50 {
+  position: absolute;
+  top: 22.5rem;
+  font-family: var(--font-inter);
+}
+.div51 {
+  top: 26.13rem;
+}
+.div51,
+.div52,
+.div53 {
+  position: absolute;
+  font-family: var(--font-inter);
+}
+.div52 {
+  top: 29.75rem;
+  left: 8.5rem;
+  color: var(--text-1);
+}
+.div53 {
+  top: 11rem;
+  left: calc(50% - 47px);
+  font-size: 3rem;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--main-2);
+  width: 100%;
+  height: 64rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--text-2);
+  font-family: var(--font-helvetica);
+}
